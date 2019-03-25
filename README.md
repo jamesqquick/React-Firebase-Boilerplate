@@ -10,7 +10,7 @@ The React Firebase Boilerplate is a React project that comes with Firebase authe
 
 - Clone
 - Run `npm install`
-- Add .env file with firebase credentia;ls
+- Add .env file with firebase credentials
 - Run `npm start`
 
 ## Tech Stack
